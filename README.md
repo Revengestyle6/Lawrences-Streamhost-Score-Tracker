@@ -14,6 +14,6 @@ Press the topmost confirm button after checking to input the score changes after
 
 If scores or race count are incorrect, Boxes are placed below that can fix the scores manually, and the "Insert Current Race" box is editable.
   - After correcting, press the confirm button on the bottom.
-  - 
+    
 To reset all scores after a war, press the reset button.
   - THERE IS NO WARNING, BE SURE THE MATCH IS FINISHED WHEN YOU PRESS THIS
